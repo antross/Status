@@ -3135,12 +3135,12 @@
     "name": "JavaScript module import()",
     "category": "JavaScript",
     "link": "https://github.com/tc39/proposal-dynamic-import",
-    "summary": "Adds a function-like import() module loading syntactic form to JavaScript.",
+    "summary": "Adds a function-like import() module loading syntactic form to JavaScript. Enables dynamically loading parts of a JavaScript application at runtime.",
     "standardStatus": "Working draft or equivalent",
     "ieStatus": {
       "text": "In Development"
     },
-    "msdn": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import",
+    "msdn": "https://github.com/tc39/proposal-dynamic-import",
     "id": 5684934484164608
   },
   {
@@ -3615,7 +3615,7 @@
       "ieUnprefixed": "16299"
     },
     "spec": "es6",
-    "msdn": "https://developer.mozilla.org/docs/Mozilla/JavaScript_code_modules",
+    "msdn": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import",
     "id": 5365692190687232,
     "uservoiceid": 6510097
   },
